@@ -1,6 +1,6 @@
 # Bayes Genes Forecast Predictor for Ryanair Datathon
 
-![](https://github.com/dsanmart/RyanairDatathon/imgs/demo.gif)
+![]([https://github.com/dsanmart/RyanairDatathon/imgs/demo.gif](https://github.com/dsanmart/RyanairDatathon/blob/main/imgs/demo.gif))
 
 
 ## Instructions to run it locally:
